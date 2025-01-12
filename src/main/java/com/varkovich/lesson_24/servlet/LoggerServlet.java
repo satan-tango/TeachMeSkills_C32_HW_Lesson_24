@@ -2,7 +2,6 @@ package com.varkovich.lesson_24.servlet;
 
 import com.varkovich.lesson_24.constants.Constants;
 import com.varkovich.lesson_24.logger.Logger;
-import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;

@@ -19,7 +19,7 @@ public class CounterServlet extends HttpServlet {
     }
 
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         Logger.logInfo("Servlet 'CounterServlet' has started to process request.");
         resp.setContentType("text/html");
         HttpSession session = req.getSession();
