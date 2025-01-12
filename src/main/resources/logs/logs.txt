@@ -1,0 +1,48 @@
+[INFO] ->       12/01/2025 14:37:20 ->       Servlet 'LoggerServlet' has been destroyed.
+[INFO] ->       12/01/2025 14:37:25 ->       Servlet 'LoggerServlet' has been created.
+[INFO] ->       12/01/2025 14:37:25 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:30 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:42 ->       Servlet 'SettingServlet' has been created.
+[INFO] ->       12/01/2025 14:37:42 ->       Servlet 'SettingServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:44 ->       Servlet 'CounterServlet' has been created.
+[INFO] ->       12/01/2025 14:37:44 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:46 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:46 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:47 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:47 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:47 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:47 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:47 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:47 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:37:48 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:38:06 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:38:09 ->       Servlet 'ResetCounterServlet' has been created.
+[INFO] ->       12/01/2025 14:38:09 ->       Servlet 'ResetCounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:38:09 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:38:10 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:38:58 ->       Servlet 'LoggerServlet' has been created.
+[INFO] ->       12/01/2025 14:38:58 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:14 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:15 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:15 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:21 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:22 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:22 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:22 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:43 ->       Servlet 'LoggerServlet' has been destroyed.
+[INFO] ->       12/01/2025 14:39:47 ->       Servlet 'LoggerServlet' has been created.
+[INFO] ->       12/01/2025 14:39:47 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:47 ->       Servlet 'TasksServlet' has been created.
+[INFO] ->       12/01/2025 14:39:47 ->       Servlet 'TasksServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:49 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:39:55 ->       Servlet 'LoggerServlet' has started to process request.
+[INFO] ->       12/01/2025 14:40:05 ->       Servlet 'SettingServlet' has been created.
+[INFO] ->       12/01/2025 14:40:05 ->       Servlet 'SettingServlet' has started to process request.
+[INFO] ->       12/01/2025 14:40:05 ->       Servlet 'TasksServlet' has started to process request.
+[INFO] ->       12/01/2025 14:40:06 ->       Servlet 'CounterServlet' has been created.
+[INFO] ->       12/01/2025 14:40:06 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:40:07 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:40:08 ->       Servlet 'ResetCounterServlet' has been created.
+[INFO] ->       12/01/2025 14:40:08 ->       Servlet 'ResetCounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:40:08 ->       Servlet 'CounterServlet' has started to process request.
+[INFO] ->       12/01/2025 14:40:09 ->       Servlet 'LoggerServlet' has started to process request.
