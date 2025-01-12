@@ -6,7 +6,6 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import jakarta.servlet.http.HttpSession;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -14,12 +13,12 @@ import java.io.PrintWriter;
 @WebServlet("/setting")
 public class SettingServlet extends HttpServlet {
     @Override
-    public void init() throws ServletException {
+    public void init() {
         Logger.logInfo("Servlet 'SettingServlet' has been created.");
     }
 
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         Logger.logInfo("Servlet 'SettingServlet' has started to process request.");
         resp.setContentType("text/html");
         PrintWriter writer = resp.getWriter();

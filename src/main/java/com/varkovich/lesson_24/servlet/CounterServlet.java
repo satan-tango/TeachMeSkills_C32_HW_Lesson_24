@@ -14,7 +14,7 @@ import java.io.PrintWriter;
 @WebServlet("/count")
 public class CounterServlet extends HttpServlet {
     @Override
-    public void init() throws ServletException {
+    public void init()  {
         Logger.logInfo("Servlet 'CounterServlet' has been created.");
     }
 

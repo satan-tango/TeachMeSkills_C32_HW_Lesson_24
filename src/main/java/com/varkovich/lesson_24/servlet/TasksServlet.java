@@ -13,13 +13,13 @@ import java.io.PrintWriter;
 @WebServlet("/tasks")
 public class TasksServlet extends HttpServlet {
     @Override
-    public void init() throws ServletException {
+    public void init() {
         Logger.logInfo("Servlet 'TasksServlet' has been created.");
     }
 
 
     @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
         Logger.logInfo("Servlet 'TasksServlet' has started to process request.");
         response.setContentType("text/html");
         PrintWriter writer = response.getWriter();

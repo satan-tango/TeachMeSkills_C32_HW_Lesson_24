@@ -7,8 +7,6 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import jakarta.servlet.http.HttpSession;
-import lombok.extern.log4j.Log4j;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -20,13 +18,13 @@ import java.util.List;
 public class LoggerServlet extends HttpServlet {
 
     @Override
-    public void init() throws ServletException {
+    public void init() {
         Logger.logInfo("Servlet 'LoggerServlet' has been created.");
     }
 
 
     @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
         Logger.logInfo("Servlet 'LoggerServlet' has started to process request.");
         response.setContentType("text/html");
         PrintWriter writer = response.getWriter();
